@@ -1,0 +1,9 @@
+
+BalanceOf(5)
+BalanceOf(4)
+
+Mint(5, 10)
+Transfer(5, 4, 5)
+
+BalanceOf(5)
+BalanceOf(4)

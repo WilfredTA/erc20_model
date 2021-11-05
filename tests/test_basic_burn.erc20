@@ -1,0 +1,11 @@
+Mint(5, 10)
+
+BalanceOf(5)
+
+TotalSupply()
+
+Burn(5, 2)
+
+BalanceOf(5)
+
+TotalSupply()

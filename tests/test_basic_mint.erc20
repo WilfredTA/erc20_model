@@ -1,0 +1,9 @@
+TotalSupply()
+
+BalanceOf(5)
+
+Mint(5, 10)
+
+BalanceOf(5)
+
+TotalSupply()
